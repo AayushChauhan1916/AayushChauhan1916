@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AayushChauhan1916
+- 👋 Hi, I’m Aayush Chauhan (@AayushChauhan1916)
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Backend Web Development
 - 💞️ I’m looking to do internship in Web Development to sharpern my skills.
